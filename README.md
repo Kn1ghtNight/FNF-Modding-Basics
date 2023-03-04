@@ -1,2 +1,3 @@
 # FNF-Modding-Basics
-this doesnt have any code just advice (im too lazy to make a doc lol)
+
+## Go to the [Wiki](https://github.com/Kn1ghtNight/FNF-Modding-Basics "The actual documentation")
